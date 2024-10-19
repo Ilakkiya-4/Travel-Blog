@@ -1,7 +1,7 @@
 {
   "name": "Turismo",
   "version": "1.0.0",
-  "description": "Turismo reponsive website build using HTML5, CSS3 and Javascript. The complete layout of the page is build using grid layout and flexbox with some cool animations",
+  "description": "Turismo responsive website build using HTML5, CSS3 and Javascript. The complete layout of the page is built using grid layout and flexbox with some cool animations",
   "main": "index.html",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
@@ -12,6 +12,9 @@
   },
   "author": "Manoranjan",
   "license": "ISC",
+  "engines": {
+    "node": "16.x"
+  },
   "devDependencies": {
     "autoprefixer": "^10.2.5",
     "node-sass": "^5.0.0",
