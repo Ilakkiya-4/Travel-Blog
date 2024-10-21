@@ -14,7 +14,13 @@
   "license": "ISC",
   "engines": {
     "node": "20.x"
+<<<<<<< HEAD
   },
+=======
+  }
+}
+
+>>>>>>> efaa5b595199e51a7e1d116f4c27765e1c0f9dda
   "devDependencies": {
     "autoprefixer": "^10.2.5",
     "node-sass": "^5.0.0",
